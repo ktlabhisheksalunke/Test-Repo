@@ -71,6 +71,7 @@ _Bool boolOnIntBattCANErrorFlag = FALSE;
 uint16_t gu16Var = 65535;
 char temparray[] = "GIT Push & Pull";
 uint8_t guAJ = 123;
+uint8_t guAJ = 255;
 
 /* USER CODE BEGIN PV */
 
