@@ -67,6 +67,8 @@ TIM_HandleTypeDef htim7;
 RTC_TimeTypeDef sTime = {0};
  RTC_DateTypeDef sDate = {0};
 _Bool boolOnIntBattCANErrorFlag = FALSE;
+
+uint16_t gu16Var = 65535;
 /* USER CODE BEGIN PV */
 
 /* USER CODE END PV */
