@@ -69,7 +69,7 @@ RTC_TimeTypeDef sTime = {0};
 _Bool boolOnIntBattCANErrorFlag = FALSE;
 
 uint16_t gu16Var = 65535;
-uint8_t guAJ = 123;
+uint8_t guAJ = 255;
 
 /* USER CODE BEGIN PV */
 
